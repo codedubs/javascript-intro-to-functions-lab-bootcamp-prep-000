@@ -16,17 +16,3 @@ function logWhisper(hello) {
 }
 
 
-var hello = "I can't hear you!"
-function sayHiToGrandma(hello) {
-  if (hello === "I can't hear you!") {
-    return "I can't hear you!"
-}
-}
-
-
-
-function sayHiToGrandma(hella) {
-  if (hella === "I love you, Grandma.") {
-    return "I love you, too."
-  }
-}

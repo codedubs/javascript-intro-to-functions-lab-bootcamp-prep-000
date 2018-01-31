@@ -14,3 +14,15 @@ function logShout(hello) {
 function logWhisper(hello) {
     console.log('hello'.toLowerCase())
 }
+
+var lowercase = 'hello!'
+var uppercase = "HELLO!"
+function sayHiToGrandma(hello) {
+  if (lowercase.toLowerCase === lowercase) {
+    return "I can't hear you!"
+  } else if () {
+    return "YES INDEED!"
+  } else {
+    return "I love you, Grandma."
+  }
+}

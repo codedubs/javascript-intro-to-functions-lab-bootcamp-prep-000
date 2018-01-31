@@ -23,11 +23,7 @@ function sayHiToGrandma(hello) {
 }
 }
 
-function sayHiToGrandma(hellos) {
-  if (hellos === 'hellos'.toUpperCase()) {
-    return "YES INDEED!"
-  }
-}
+
 
 function sayHiToGrandma(hella) {
   if (hella === "I love you, Grandma.") {
